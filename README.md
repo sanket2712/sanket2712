@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Sanket Here
 
-![Bhuvanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhuvaneshPatil&show_icons=true&theme=onedark)
+![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhuvaneshPatil&show_icons=true&theme=onedark)
 <!--
 Here are some ideas to get you started:
 
