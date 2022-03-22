@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### Sanket Here
-<!--
-**sanket2712/sanket2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Bhuvanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhuvaneshPatil&show_icons=true&theme=onedark)
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
